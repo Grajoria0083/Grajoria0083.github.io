@@ -1,0 +1,16 @@
+Ans :-
+
+IOC:
+---
+
+Basically we create the object of dependencies class in dependent class, 
+but if we create the dependency class obj by any external entity then it 
+know as Inversion of Control .
+
+
+
+life cycle of the Spring Bean:-
+----------------------------
+ 
+In the Spring Bean initi-method is use as a creation and destroy-method is destroy the cycle.
+So  initi-method and destroy-method are the main component of life cycle of the Spring Bean.
