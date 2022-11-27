@@ -72,4 +72,23 @@ $(document).ready(function () {
     });
   });
 
-  new GitHubCalender(".calender", "Grajoria0083", { Response:true});
+  // new GitHubCalender(".calender", "Grajoria0083", { Response:true});
+
+
+  // github
+
+  
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+// </script>
